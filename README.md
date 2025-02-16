@@ -3,7 +3,9 @@
 Documentação do Sistema de Gestão de Reservas de Hotéis
 
 Introdução
+
 Este documento descreve a implementação das APIs RESTful para o sistema de gestão de reservas de hotéis. O sistema foi desenvolvido utilizando o framework Express (Node.js) e o banco de dados MySQL. As APIs permitem a gestão de hotéis, clientes e reservas, conforme especificado no caso prático.
+
 
 Serviços Implementados
 1. Serviço de Hotéis
